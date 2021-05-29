@@ -1,0 +1,19 @@
+.Wrapper-border {
+    border:1px solid #ccc;
+}
+
+.Wrapper-content {
+    border-radius: 10px;
+    border: 1px solid burlywood;
+}
+
+.Wrapper-content-center {
+    justify-content: center;
+}
+
+.Wrapper-header {
+    background: chocolate;
+    color: #fff;
+    font-weight: 500;
+    border-radius: 10px 0px 0px;
+}
